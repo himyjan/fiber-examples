@@ -18,7 +18,7 @@ require (
 	github.com/antchfx/xmlquery v1.5.1 // indirect
 	github.com/antchfx/xpath v1.3.6 // indirect
 	github.com/bits-and-blooms/bitset v1.24.4 // indirect
-	github.com/fsnotify/fsnotify v1.10.0 // indirect
+	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gofiber/schema v1.7.1 // indirect
